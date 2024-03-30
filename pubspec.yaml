@@ -1,6 +1,6 @@
 name: devaloop_data_search_page
 description: "A Flutter DataSearchPage package project."
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/devaloop/data_search_page
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   devaloop_data_list_page: ^0.0.2
-  devaloop_form_builder: ^0.1.5
+  devaloop_form_builder: ^0.1.6
 
 dev_dependencies:
   flutter_test:
